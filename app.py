@@ -12,7 +12,6 @@ st.set_page_config(
     initial_sidebar_state="expanded",
 )
 
-<<<<<<< HEAD
 # ─── CUSTOM CSS ─────────────────────────────────────────────────────────────────
 st.markdown("""
 <style>
@@ -438,9 +437,3 @@ st.markdown("""
     Metode: <b>Weighted Product (WP)</b> &nbsp;|&nbsp; Dataset: McDonald's India Menu
 </div>
 """, unsafe_allow_html=True)
-=======
-
-
-with st.sidebar:
-    st.markdown("WP")
->>>>>>> 6c77c8bba3eb568527d307333674ddfe9b4503c4
